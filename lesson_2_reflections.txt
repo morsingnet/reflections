@@ -1,0 +1,8 @@
+more reflections:
+
+Using the git staging area for proper commits.
+Staging area is used with "git add <fname>"
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Staging are is uncomitted changes. Changes that are verified and can be part of a larger commit.
+

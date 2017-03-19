@@ -6,3 +6,17 @@ Staging area is used with "git add <fname>"
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: Staging are is uncomitted changes. Changes that are verified and can be part of a larger commit.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: you can add all the files that is needed for logical change prior to doing the commit.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: Working on features that will take long time to add.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: It shows the reachable version with branches.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: You are always merging into the branch you are on. Parents in terms of commit ids are sorted by timestamp.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: only when you have multiple people working on the same lines of code will conflicts be introduced. In general auto merge will help.

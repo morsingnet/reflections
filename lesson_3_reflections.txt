@@ -1,0 +1,2 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?\
+A: You want to use remote repositories when you collaborate with a team. Also when you want a backup in the cloud.

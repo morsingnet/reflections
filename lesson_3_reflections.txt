@@ -10,3 +10,6 @@ A: Fork is a GitHub cmd onle. It clones an external repo into your github accoun
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: Working remote without internet connection gives you the option to merge all code from the remote.
 
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: You can have an owner of a code domain and have other people create pull requests to be merged into the mater. Using GitHub and Git tracks this and makes it externally available, independent of timezone or location.
+

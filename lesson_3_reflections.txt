@@ -6,3 +6,7 @@ A: You want to focus on your changes, not getting others issues until you are re
 
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A: Fork is a GitHub cmd onle. It clones an external repo into your github account. Branches are used for feature development of the master. Clone is copy of the current GitHub repo onto your local machine.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: Working remote without internet connection gives you the option to merge all code from the remote.
+

@@ -13,3 +13,5 @@ A: Working remote without internet connection gives you the option to merge all 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: You can have an owner of a code domain and have other people create pull requests to be merged into the mater. Using GitHub and Git tracks this and makes it externally available, independent of timezone or location.
 
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: When dealing with merge-conflicts you want to handle that on the branch first. Then megring branch and master wont be an issue.
